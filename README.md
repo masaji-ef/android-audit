@@ -1,6 +1,3 @@
-cd ~/Projects/android-dump
-
-cat > README.md <<'EOF'
 # android-audit
 
 Minimal, reliable Android device audit over ADB.
